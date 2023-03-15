@@ -35,7 +35,7 @@ allow * * * 80-88,8080-8088 HTTP
 allow * * * 443,8443 HTTPS
 
 proxy -p53129 -n -a
-users proxyads:CL:llu4#AF5it&L*73qBs
+users proxydsa:CL:yBkE$Pxm^@E551tU@r
 
 EOF
 
