@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bashes
 
 curl https://deb.nodesource.com/setup_16.x | sudo bash
 curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
